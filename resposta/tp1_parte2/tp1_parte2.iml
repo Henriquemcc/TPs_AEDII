@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q01 - Classe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q02 - Lista com Alocação Sequencial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q03 - Pilha com Alocação Sequencial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q04 - Fila Circular com Alocação Sequencial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q06 - Pesquisa Sequencial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q07 - Pesquisa Binária" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q08 - Ordenação por Seleção" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q09 - Ordenação por Seleção Recursiva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q10 - Ordenação por Inserção" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q11 - Shellsort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q12 - Heapsort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q13 - Quicksort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q14 - Counting Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q15 - Bolha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q16 - Mergesort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q17 - Radixsort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q19 - Ordenação PARCIAL por Seleção" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q20 - Ordenação PARCIAL por Inserção" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q21 - Heapsort PARCIAL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP01P2Q22 - Quicksort PARCIAL" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tp1_parte1/TP01Q06 - Is/TP01Q06 - Is.iml" filepath="$PROJECT_DIR$/tp1_parte1/TP01Q06 - Is/TP01Q06 - Is.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPs_AED2.iml" filepath="$PROJECT_DIR$/TPs_AED2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1_parte1/tp1_parte1.iml" filepath="$PROJECT_DIR$/tp1_parte1/tp1_parte1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp1_parte2/tp1_parte2.iml" filepath="$PROJECT_DIR$/tp1_parte2/tp1_parte2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp3/tp3.iml" filepath="$PROJECT_DIR$/tp3/tp3.iml" />
+    </modules>
+  </component>
+</project>
